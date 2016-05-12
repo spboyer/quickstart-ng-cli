@@ -1,3 +1,4 @@
-languge: node
+sudo: false
+languge: node_js
 before_install:
     - npm install angular-cli
