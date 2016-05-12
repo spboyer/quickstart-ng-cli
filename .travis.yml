@@ -1,2 +1,3 @@
+languge: node
 before_install:
     - npm install angular-cli
