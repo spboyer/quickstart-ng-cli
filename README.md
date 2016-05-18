@@ -1,6 +1,6 @@
 # quickstart-ng-cli
 
-https://codeship.com/projects/93a14c00-fa7e-0133-18ae-12544c2ab455/status?branch=master
+ ![Codeship Status for spboyer/quickstart-ng-cli](https://codeship.com/projects/93a14c00-fa7e-0133-18ae-12544c2ab455/status?branch=master)
 
 ## CodeShip Builds
 Configure your tests > Select "I want to create my own commands"
