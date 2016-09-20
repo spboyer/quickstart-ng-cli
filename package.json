@@ -12,8 +12,8 @@
     "e2e": "protractor",
     "build:nodeserver": "ng build && cp cp nodeserver\/* dist",
     "build:nodeserver-prod": "ng build -prod && cp nodeserver\/* dist",
-    "serve-build": "npm run build:nodeserver && cd dist && node index.js",
-    "serve-build-prod": "npm run build:nodeserver-prod && cd dist && node index.js"
+    "serve-build": "npm run build:nodeserver && cd dist && node server.js",
+    "serve-build-prod": "npm run build:nodeserver-prod && cd dist && node server.js"
   },
   "private": true,
   "dependencies": {
